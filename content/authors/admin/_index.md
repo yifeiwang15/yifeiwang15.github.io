@@ -51,8 +51,8 @@ interests:
 education:
   - area: PhD Student in Computer Science
     institution: Brandeis University
-    date_start: 2020-01
-    date_end: current
+    date_start: 2020-01-15
+    date_end: ''
     summary: |
       GPA: 4.0/4.0
       Research Focus: Graph Representational Learning on Molecules, Fairness within Medical Contexts
@@ -61,8 +61,8 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Pure and Applied Mathematics
     institution: Tsinghua University
-    date_start: 2015-08
-    date_end: 2019-07
+    date_start: 2015-08-31
+    date_end: 2019-07-16
     summary: |
       GPA: 3.6/4.0
       Major focus: Mathematics, Statistics, Optimization.
@@ -74,7 +74,7 @@ work:
     company_name: Brigham and Woman’s Hospital & Harvard Medical School
     company_url: ''
     company_logo: ''
-    date_start: 2022-08
+    date_start: 2022-08-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -85,8 +85,8 @@ work:
     company_name: XtalPi Inc.
     company_url: ''
     company_logo: ''
-    date_start: 2019-07
-    date_end: 2019-12
+    date_start: 2019-07-22
+    date_end: 2019-12-31
     summary: |
       Responsibilities include:
       - Implemented a transformer-like architecture for retrosynthetic reaction path prediction.
