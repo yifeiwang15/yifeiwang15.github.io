@@ -1,5 +1,5 @@
 ---
-title: Oral Presentation
+title: Oral Presentation at AMIA 2023 Annual Symposium
 
 
 event: AMIA (American Medical Informatics Association) 2023 Annual Symposium.
@@ -12,7 +12,7 @@ address:
   country: United States
 
 summary: 'In Session 14: Application of Informatics in Health Equity - "All the Things You Are" at AMIA.'
-abstract: 'We presented our work: Fairness Evaluation of Machine Learning Models Using Propensity Score Matching: Assessing Racial Bias in Mortality Prediction for Chronic Diseases'
+abstract: 'We presented our work titled "Fairness Evaluation of Machine Learning Models Using Propensity Score Matching: Assessing Racial Bias in Mortality Prediction for Chronic Diseases." I’d like to thank my co-authors for their contributions, with special appreciation to Dr. Li Zhou and Dr. Liqin Wang for their mentorship and valuable insights. This was a 15-minute symposium talk, and the full paper is published in JBI.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
