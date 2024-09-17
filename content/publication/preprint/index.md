@@ -2,13 +2,13 @@
 title: "Asymmetric contrastive multimodal learning for advancing chemical understanding"
 authors:
 - Hao Xu
-- Yifei Wang
+- admin
 - Yunrui Li
 - Pengyu Hong
 
 # author_notes: "Equal contribution."
 
-- admin
+
 date: "2023-11-11T00:00:00Z"
 doi: ""
 

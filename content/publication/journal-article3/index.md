@@ -1,7 +1,7 @@
 ---
 title: "Motif-based graph representation learning with application to chemical molecules"
 authors:
-- Yifei Wang
+- admin
 - Shiyang Chen
 - Guobin Chen
 - Ethan Shurberg

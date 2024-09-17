@@ -6,7 +6,7 @@ title: 'On dyadic fairness: Exploring and mitigating bias in graph connections.'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Peizhao Li
-  - Yifei Wang
+  - admin
   - Han Zhao
   - Pengyu Hong
   - Hongfu Liu
