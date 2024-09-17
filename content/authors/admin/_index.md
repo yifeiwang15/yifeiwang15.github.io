@@ -49,24 +49,25 @@ interests:
   - AI4Healthcare
 
 education:
-  - area: PhD Student in Computer Science
+  - area: PhD Student of Computer Science
     institution: Brandeis University
     date_start: 2020-01-15
     date_end: ''
     summary: |
-      GPA: 4.0/4.0
-      Research Focus: Graph Representational Learning on Molecules, Fairness within Medical Contexts
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      - GPA: 4.0/4.0
+      - Research Focus: Graph Representational Learning on Molecules, Fairness within Medical Contexts
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: Bachelor of Mathematics
     institution: Tsinghua University
     date_start: 2015-08-31
     date_end: 2019-07-16
     summary: |
-      GPA: 3.6/4.0
-      Major focus: Mathematics, Statistics, Optimization.
-      Courses included: Statistical Inference, Numerical Analysis, Algorithm Analysis and Design, Convex Optimization.
+      - GPA: 3.6/4.0
+      - Advisors: Prof. Chenglong Bao and Prof. Chunping Li
+      - Major focus: Mathematics, Statistics, Optimization.
+      - Courses included: Statistical Inference, Numerical Analysis, Algorithm Analysis and Design, Convex Optimization.
 
   
 work:
