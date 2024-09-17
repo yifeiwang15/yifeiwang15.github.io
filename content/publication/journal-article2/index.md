@@ -33,8 +33,8 @@ abstract: "Objective: Existing approaches to fairness evaluation often overlook 
 summary: "This study contributes to research on fairness assessment by focusing on the examination of systematic disparities and underscores the potential for revealing racial bias in machine learning models used in clinical settings."
 
 tags:
-- Source Themes
-featured: True
+- Machine Learning
+featured: false
 # links:
 # - name: ""
 #   url: ""
