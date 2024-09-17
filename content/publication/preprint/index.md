@@ -1,48 +1,48 @@
 ---
-title: "An example preprint / working paper"
+title: "Asymmetric contrastive multimodal learning for advancing chemical understanding"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-11-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-11-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "The versatility of multimodal deep learning holds tremendous promise for ad- vancing scientific research and practical applications. As this field continues to evolve, the collective power of cross-modal analysis promises to drive transfor- mative innovations, leading us to new frontiers in chemical understanding and discovery. Hence, we introduce Asymmetric Contrastive Multimodal Learning (ACML) as a novel approach tailored for molecules, showcasing its potential to advance the field of chemistry. ACML harnesses the power of effective asymmet- ric contrastive learning to seamlessly transfer information from various chemical modalities to molecular graph representations. By combining pre-trained chemical unimodal encoders and a shallow-designed graph encoder, ACML facilitates the assimilation of coordinated chemical semantics from different modalities, leading to comprehensive representation learning with efficient training. We demonstrate the effectiveness of this framework through large-scale cross-modality retrieval and isomer discrimination tasks. Additionally, ACML enhances interpretability by revealing chemical semantics in graph presentations and bolsters the expressive power of graph neural networks, as evidenced by improved performance in molec- ular property prediction tasks from MoleculeNet. ACML exhibits its capability to revolutionize chemical research and applications, providing a deeper understanding of the chemical semantics of different modalities."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We proposed an asymmetric contrastive multimodal learning framework, an effective and training-efficient framework tailored for molecules, promoting cross-modality understanding between the molecular graph and other chemical modalities.
 
 tags:
-- Large Language Models
+- Multimodal Learning, Graph Neural Network, Chemical Informatics, Molecular Learning
 
-featured: true
+featured: False
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://arxiv.org/abs/2311.06456
+url_code: 'https://github.com/GainGod-Xu/ACMLProject'
+url_dataset: ''
+url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: 'https://drive.google.com/file/d/198W-Be2OOUM7J6PTqpASd13YmAz2ECw5/view?usp=sharing'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,10 +62,10 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
