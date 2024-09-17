@@ -1,6 +1,13 @@
 ---
 title: "Asymmetric contrastive multimodal learning for advancing chemical understanding"
 authors:
+- Hao Xu
+- Yifei Wang
+- Yunrui Li
+- Pengyu Hong
+
+author_notes: "Equal contribution."
+
 - admin
 date: "2023-11-11T00:00:00Z"
 doi: ""
@@ -25,7 +32,7 @@ summary: We proposed an asymmetric contrastive multimodal learning framework, an
 tags:
 - Multimodal Learning, Graph Neural Network, Chemical Informatics, Molecular Learning
 
-featured: False
+featured: false
 
 links:
 # - name: Custom Link

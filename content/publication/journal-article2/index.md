@@ -1,13 +1,15 @@
 ---
-title: "Assessing fairness in machine learning models: A study of racial bias using matched counterparts in mortality prediction for patients with chronic diseases"
+title: "A machine learning approach to robustly determine director fields and analyze defects in active nematics"
 authors:
+- Yunrui Li
+- Zahra Zarei
+- Phu N Tran
 - Yifei Wang
-- Liqin Wang
-- Zhengyang Zhou
-- John Laurentiev
-- Joshua R Lakin
-- Li Zhou
+- Aparna Baskaran
+- Seth Fraden
+- Michael F Hagan
 - Pengyu Hong
+
 author_notes: ""
 
 date: "2024-06-11"
@@ -32,7 +34,7 @@ summary: "This study contributes to research on fairness assessment by focusing 
 
 tags:
 - Source Themes
-featured: true
+featured: True
 # links:
 # - name: ""
 #   url: ""
