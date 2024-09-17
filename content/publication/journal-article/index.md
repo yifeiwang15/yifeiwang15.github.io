@@ -4,7 +4,7 @@ authors:
 - Yifei Wang
 - Liqin Wang
 - Zhengyang Zhou
-- John Laurentiev,
+- John Laurentiev
 - Joshua R Lakin
 - Li Zhou
 - Pengyu Hong
@@ -14,7 +14,7 @@ date: "2024-06-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-06-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Biomedical Informatics, 1*(1)"
+publication: "*Journal of Biomedical Informatics"
 publication_short: "JBI"
 
-abstract: ""
+abstract: "Objective: Existing approaches to fairness evaluation often overlook systematic differences in the social determinants of health, like demographics and socioeconomics, among comparison groups, potentially leading to inaccurate or even contradictory conclusions. This study aims to evaluate racial disparities in predicting mortality among patients with chronic diseases using a fairness detection method that considers systematic differences. Methods: We created five datasets from Mass General Brigham’s electronic health records (EHR), each focusing on a different chronic condition: congestive heart failure (CHF), chronic kidney disease (CKD), chronic obstructive pulmonary disease (COPD), chronic liver disease (CLD), and dementia. For each dataset, we developed separate machine learning models to predict 1-year mortality and examined racial disparities by comparing prediction performances between Black and White individuals. We compared racial fairness evaluation between the overall Black and White individuals versus their counterparts who were Black and matched White individuals identified by propensity score matching, where the systematic differences were mitigated. Results: We identified significant differences between Black and White individuals in age, gender, marital status, education level, smoking status, health insurance type, body mass index, and Charlson comorbidity index (p-value <0.001). When examining matched Black and White subpopulations identified through propensity score matching, significant differences between particular covariates existed. We observed weaker significance levels in the CHF cohort for insurance type (p =0.043), in the CKD cohort for insurance type (p =0.005) and education level (p =0.016), and in the dementia cohort for body mass index (p =0.041); with no significant differences for other covariates. When examining mortality prediction models across the five study cohorts, we conducted a comparison of fairness evaluations before and after mitigating systematic differences. We revealed significant differences in the CHF cohort with p-values of 0.021 and 0.001 in terms of F1 measure and Sensitivity for the AdaBoost model, and p-values of 0.014 and 0.003 in terms of F1 measure and Sensitivity for the MLP model, respectively. Discussion and conclusion: This study contributes to research on fairness assessment by focusing on the examination of systematic disparities and underscores the potential for revealing racial bias in machine learning models used in clinical settings."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This study contributes to research on fairness assessment by focusing on the examination of systematic disparities and underscores the potential for revealing racial bias in machine learning models used in clinical settings."
 
 tags:
 - Source Themes
@@ -37,19 +37,19 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://www.sciencedirect.com/science/article/pii/S1532046424000959?casa_token=O85if-SwkCIAAAAA:rjWeorAHWUTLsPfDX5Y-CVjzAe88MmlwfffZOKMWR6X2vs4wUjyBztp-J4K6xAyhh7IHxbxSQzs'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1532046424000959
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1_G1bZRtDKVqnMaDHaGg3R0wbPgrXT-QB/view?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1IA_AjAfQf96AzUHvGe5B0hJwpdkV6FTO/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
