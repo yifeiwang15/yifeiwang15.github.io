@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Bachelor of Pure and Applied Mathematics
+  - area: Bachelor of Mathematics
     institution: Tsinghua University
     date_start: 2015-08-31
     date_end: 2019-07-16
