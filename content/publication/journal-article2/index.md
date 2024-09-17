@@ -12,11 +12,11 @@ authors:
 
 author_notes: ""
 
-date: "2024-06-11"
+date: "2024-01-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-11T00:00:00Z"
+publishDate: "2024-01-31T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,28 +24,29 @@ publishDate: "2024-06-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Biomedical Informatics"
-publication_short: "JBI"
+publication: "Soft Matter"
+publication_short: "Soft Matter"
 
-abstract: "Objective: Existing approaches to fairness evaluation often overlook systematic differences in the social determinants of health, like demographics and socioeconomics, among comparison groups, potentially leading to inaccurate or even contradictory conclusions. This study aims to evaluate racial disparities in predicting mortality among patients with chronic diseases using a fairness detection method that considers systematic differences. Methods: We created five datasets from Mass General Brigham’s electronic health records (EHR), each focusing on a different chronic condition: congestive heart failure (CHF), chronic kidney disease (CKD), chronic obstructive pulmonary disease (COPD), chronic liver disease (CLD), and dementia. For each dataset, we developed separate machine learning models to predict 1-year mortality and examined racial disparities by comparing prediction performances between Black and White individuals. We compared racial fairness evaluation between the overall Black and White individuals versus their counterparts who were Black and matched White individuals identified by propensity score matching, where the systematic differences were mitigated. Results: We identified significant differences between Black and White individuals in age, gender, marital status, education level, smoking status, health insurance type, body mass index, and Charlson comorbidity index (p-value <0.001). When examining matched Black and White subpopulations identified through propensity score matching, significant differences between particular covariates existed. We observed weaker significance levels in the CHF cohort for insurance type (p =0.043), in the CKD cohort for insurance type (p =0.005) and education level (p =0.016), and in the dementia cohort for body mass index (p =0.041); with no significant differences for other covariates. When examining mortality prediction models across the five study cohorts, we conducted a comparison of fairness evaluations before and after mitigating systematic differences. We revealed significant differences in the CHF cohort with p-values of 0.021 and 0.001 in terms of F1 measure and Sensitivity for the AdaBoost model, and p-values of 0.014 and 0.003 in terms of F1 measure and Sensitivity for the MLP model, respectively. Discussion and conclusion: This study contributes to research on fairness assessment by focusing on the examination of systematic disparities and underscores the potential for revealing racial bias in machine learning models used in clinical settings."
+abstract: "Active nematics are dense systems of rodlike particles that consume energy to drive motion at the level of the individual particles. They exist in natural systems like biological tissues and artificial materials such as suspensions of self-propelled colloidal particles or synthetic microswimmers. Active nematics have attracted significant attention in recent years due to their spectacular nonequilibrium collective spatiotemporal dynamics, which may enable applications in fields such as robotics, drug delivery, and materials science. The director field, which measures the direction and degree of alignment of the local nematic orientation, is a crucial characteristic of active nematics and is essential for studying topological defects. However, determining the director field is a significant challenge in many experimental systems. Although director fields can be derived from images of active nematics using traditional imaging processing methods, the accuracy of such methods is highly sensitive to the settings of the algorithms. These settings must be tuned from image to image due to experimental noise, intrinsic noise of the imaging technology, and perturbations caused by changes in experimental conditions. This sensitivity currently limits automatic analysis of active nematics. To address this, we developed a machine learning model for extracting reliable director fields from raw experimental images, which enables accurate analysis of topological defects. Application of the algorithm to experimental data demonstrates that the approach is robust and highly generalizable to experimental settings that are different from those in the training data. It could be a promising tool for investigating active nematics and may be generalized to other active matter systems."
 
 # Summary. An optional shortened abstract.
-summary: "This study contributes to research on fairness assessment by focusing on the examination of systematic disparities and underscores the potential for revealing racial bias in machine learning models used in clinical settings."
+summary: "We developed a machine learning model for extracting reliable director fields from raw experimental images, which enables accurate analysis of topological defects."
 
 tags:
 - Machine Learning
+- Active Matter
 featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1532046424000959
+url_pdf: 'https://pubs.rsc.org/en/content/articlelanding/2024/sm/d3sm01253k'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1_G1bZRtDKVqnMaDHaGg3R0wbPgrXT-QB/view?usp=sharing'
+url_slides: ''
 url_source: ''
-url_video: 'https://drive.google.com/file/d/1IA_AjAfQf96AzUHvGe5B0hJwpdkV6FTO/view?usp=sharing'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
