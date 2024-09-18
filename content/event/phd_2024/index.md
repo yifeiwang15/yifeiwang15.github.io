@@ -1,5 +1,5 @@
 ---
-title: Oral Presentation of my Dissertation Proposal at CS PhD Retreat
+title: Oral Presentation of My Dissertation Proposal at CS PhD Retreat
 
 event: Brandeis CS PhD Retreat 2024
 event_url: 
@@ -11,17 +11,7 @@ address:
   country: United States
 
 summary: 'Better AI in Scientific Applications: Interdisciplinary Approaches for Advancing Representational Learning'
-abstract: 
-  - 'View A: Designing novel model architectures that can effectively capture and represent the complexities inherent in scientific data.' 
-    - 'Project 1: Novel algebraic learning framework for knowledge graph with incorporation of human-defined logic rules.' 
-    - 'Project 2: Novel motif-based learning framework for molecule property prediction' 
-  
-  - 'View B: Multimodal approaches to integrate complementary knowledge from different modalities.'
-    - 'Project 3: Multimodal contrastive learning using heterogeneous molecule representations.' 
-    - 'Project 4: A multimodal fusion approach for integrating molecular learning with language models via soft prompting.' 
-  
-  - 'View C: Controllable molecule generation'
-    - 'Project 5: Controllable Molecule Generation by Diffusion Language Model' 
+abstract: 'View A: Designing novel model architectures that can effectively capture and represent the complexities inherent in scientific data.  Project 1: Novel algebraic learning framework for knowledge graph with incorporation of human-defined logic rules. Project 2: Novel motif-based learning framework for molecule property prediction. View B: Multimodal approaches to integrate complementary knowledge from different modalities. Project 3: Multimodal contrastive learning using heterogeneous molecule representations. Project 4: A multimodal fusion approach for integrating molecular learning with language models via soft prompting. View C: Controllable molecule generation. Project 5: Controllable Molecule Generation by Diffusion Language Model' 
     
 
 # Talk start and end times.
