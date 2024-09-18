@@ -2,7 +2,7 @@
 title: "Assessing fairness in machine learning models: A study of racial bias using matched counterparts in mortality prediction for patients with chronic diseases"
 authors:
 - admin
-- Liqin Wang
+- Liqin Wang*
 - Zhengyang Zhou
 - John Laurentiev
 - Joshua R Lakin
