@@ -24,9 +24,9 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: ''
+          filename: 'background.jpg'
           filters:
-            brightness: 0.4
+            brightness: 1.0
             opacity: 0.2
           size: cover
           position: center
