@@ -26,10 +26,12 @@ publishDate: '2023-11-01T15:00:00Z'
 authors:
   - admin
 
-tags: []
+tags: 
+  - Fairness
+  - Electronic Health Records
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
