@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: static/uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: white
         image:
