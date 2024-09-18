@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: static/uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.2
           size: cover
           position: center
           parallax: false
@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a PhD Student in Computer Science. I blog about my publications and recent news. I am actively working with people who show great interest in cutting edge AI topics. Please reach out to collaborate and discuss with me. 😃
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
