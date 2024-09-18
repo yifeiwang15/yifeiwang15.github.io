@@ -27,7 +27,7 @@ sections:
           filename: 'background.jpg'
           filters:
             brightness: 1.0
-            opacity: 0.2
+            opacity: 0.5
           size: cover
           position: center
           parallax: false
