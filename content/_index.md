@@ -21,13 +21,13 @@ sections:
     design:
       css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: background.jpg
           filters:
             brightness: 0.4
-            opacity: 0.4 
+            opacity: 0.2
           size: cover
           position: center
           parallax: false
