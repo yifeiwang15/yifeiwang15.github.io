@@ -2,7 +2,7 @@
 title: "Asymmetric contrastive multimodal learning for advancing chemical understanding"
 authors:
 - Hao Xu
-- admin
+- admin 
 - Yunrui Li
 - Pengyu Hong
 
@@ -30,9 +30,12 @@ abstract: "The versatility of multimodal deep learning holds tremendous promise 
 summary: We proposed an asymmetric contrastive multimodal learning framework, an effective and training-efficient framework tailored for molecules, promoting cross-modality understanding between the molecular graph and other chemical modalities.
 
 tags:
-- Multimodal Learning, Graph Neural Network, Chemical Informatics, Molecular Learning
+- Multimodal Learning
+- Graph Neural Network
+- Chemical Informatics
+- Molecular Learning
 
-featured: false
+featured: true
 
 links:
 # - name: Custom Link
@@ -58,15 +61,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
