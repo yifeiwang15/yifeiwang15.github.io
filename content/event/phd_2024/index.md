@@ -1,28 +1,37 @@
 ---
-title: Poster Presentation at Boston Symmetry Day 2023
+title: Oral Presentation of my Dissertation Proposal at CS PhD Retreat
 
+event: Brandeis CS PhD Retreat 2024
+event_url: 
 
-event: Boston Symmetry Day 2023.
-event_url: https://bostonsymmetry.github.io
-
-location: Northeastern University
+location: Brandeis University
 address:
-  city: Boston
+  city: Waltham
   region: MA
   country: United States
 
-summary: 'Motif-based Graph Representation Learning for Molecules'
-abstract: 'Many types of complex graphs (e.g., chemical molecules, biological molecules,
-knowledge graphs, etc.) can be naturally represented as attributed relational graphs (ARGs). The AGR representation extends ordinary graph representations by associating attributes/features with nodes and edges to characterize the corresponding entities and relationships, respectively, allowing the full representation of graphs with 3D geometry. ARGs are substantially more expressive, however, come with added complexities in training and analysis. Graph neural networks (GNNs) have been widely used in predicting the properties of molecular graphs. Existing GNNs do not effectively exploit ARGs and typically start with node attributes, which do not efficiently capture structural information. We hypothesize that the local structural context space can be well-characterized by a set of motifs, i.e., building blocks of chemical functional groups. Therefore, we propose a novel motif convolution module (MCM) for ARGs, allowing for better capture of local structural and semantic information from graph motifs.'
+summary: 'Better AI in Scientific Applications: Interdisciplinary Approaches for Advancing Representational Learning'
+abstract: 
+  - 'View A: Designing novel model architectures that can effectively capture and represent the complexities inherent in scientific data.' 
+    - 'Project 1: Novel algebraic learning framework for knowledge graph with incorporation of human-defined logic rules.' 
+    - 'Project 2: Novel motif-based learning framework for molecule property prediction' 
+  
+  - 'View B: Multimodal approaches to integrate complementary knowledge from different modalities.'
+    - 'Project 3: Multimodal contrastive learning using heterogeneous molecule representations.' 
+    - 'Project 4: A multimodal fusion approach for integrating molecular learning with language models via soft prompting.' 
+  
+  - 'View C: Controllable molecule generation'
+    - 'Project 5: Controllable Molecule Generation by Diffusion Language Model' 
+    
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-04-07T13:00:00Z'
-date_end: '2023-04-07T14:30:00Z'
+date: '2024-05-29T16:30:00Z'
+date_end: '2023-05-29T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-04-07T15:00:00Z'
+publishDate: '2023-05-29T17:00:00Z'
 
 authors:
   - admin
@@ -32,7 +41,7 @@ tags:
   - Molecule Learning
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -44,8 +53,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 
-url_pdf: 'https://drive.google.com/file/d/14f0ji8Gc_3Hl2h0Qn2SvP5sEJNanAyWT/view?usp=sharing'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://docs.google.com/presentation/d/1ei-DRBpSqupm2Ngy3YUkibcTMhN8eE8l/edit?usp=sharing&ouid=117945450209146684865&rtpof=true&sd=true'
 url_video: ''
 
 # Markdown Slides (optional).
