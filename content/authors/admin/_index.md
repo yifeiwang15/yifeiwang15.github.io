@@ -122,11 +122,13 @@ skills:
 
 languages:
   - name: English
-    percent: 80
+    description: Fluent
+    percent: 90
   - name: Chinese
+    description: Native
     percent: 100
 ---
 
 ## About Me
 
-Yifei Wang is a PhD student of computer science at Brandeis University. Her research interests include graph neural networks, multimodal learning, and generative models. 
+Yifei Wang is a PhD student in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University under the guidance of Prof. Chenglong Bao. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare. She also does interdisciplinary studies in AI4Science and Healthcare. 
