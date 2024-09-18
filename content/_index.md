@@ -19,15 +19,15 @@ sections:
         text: Download CV
         url: resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: background.jpg
           filters:
             brightness: 0.4
-            opacity: 0.8 
+            opacity: 0.4 
           size: cover
           position: center
           parallax: false
