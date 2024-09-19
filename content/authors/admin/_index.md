@@ -110,7 +110,7 @@ skills:
       - name: Cooking
         description: 'After spending a year at home during the COVID-19 pandemic, I’ve mastered the art of becoming a chef!'
         percent: 100
-        icon: cook
+        icon: 'cook.svg'
       - name: Singing
         description: ''
         percent: 100
