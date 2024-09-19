@@ -102,6 +102,11 @@ skills:
         description: 'Familiar with most Python packages such as Numpy, Pandas, Sklearn, Pytorch, Pytorch Geometric, Transformers, Diffusion, Peft, etc. Also familiar with MATLAB and R.'
         percent: 100
         icon: code-bracket
+      - name: Research Skills
+        description: 'Algorithm Development, Theoretical Proof, Quantitative Analysis, Experiment Design,
+        Interdisciplinary collaboration, Presentation, Writing and Communication.'
+        percent: 100
+        icon: 
       - name: Soft Skills
         description: 'Time Management, Problem Solving, Project Management, Collaboration, Mentorship.'
         percent: 100
