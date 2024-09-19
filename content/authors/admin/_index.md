@@ -96,10 +96,14 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Working Skills
     items:
       - name: Programming
         description: 'Familiar with most Python packages such as Numpy, Pandas, Sklearn, Pytorch, Pytorch Geometric, Transformers, Diffusion, Peft, etc. Also familiar with MATLAB and R.'
+        percent: 100
+        icon: code-bracket
+      - name: Soft Skills
+        description: 'Time Management, Problem Solving, Project Management, Collaboration, Mentorship.'
         percent: 100
         icon: code-bracket
 
@@ -110,15 +114,15 @@ skills:
       - name: Cooking
         description: 'After spending a year at home during the COVID-19 pandemic, I’ve mastered the art of becoming a chef!'
         percent: 100
-        icon: 'cook.svg'
+        icon: ''
       - name: Singing
-        description: ''
+        description: 'Used to be a soprano in the Chorus Team of the Tsinghua University Student Art Troupe.'
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: ''
+      - name: Gaming
+        description: 'Big lover of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, Animal Crossing'
+        percent: 100
+        icon: ''
 
 languages:
   - name: English
