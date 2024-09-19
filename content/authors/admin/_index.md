@@ -135,7 +135,7 @@ languages:
   - name: Chinese
     description: Native
     percent: 100
-  - name: Japanses
+  - name: Japanese
     description: Beginner
     percent: 20
 ---
