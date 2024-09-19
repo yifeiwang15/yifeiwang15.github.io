@@ -98,27 +98,27 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: 'Familiar with most deep learning packages such as Pytorch, Pytorch Geometric, Transformers, Diffusion, Peft, etc.'
+      - name: Programming
+        description: 'Familiar with most Python packages such as Numpy, Pandas, Sklearn, Pytorch, Pytorch Geometric, Transformers, Diffusion, Peft, etc. Also familiar with MATLAB and R.'
         percent: 100
         icon: code-bracket
 
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Cooking
+        description: 'After spending a year at home during the COVID-19 pandemic, I’ve mastered the art of becoming a chef!'
+        percent: 100
+        icon: cook
+      - name: Singing
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
