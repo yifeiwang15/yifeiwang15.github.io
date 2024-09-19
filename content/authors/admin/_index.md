@@ -121,7 +121,7 @@ skills:
         percent: 100
         icon: ''
       - name: Gaming
-        description: 'Big lover of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, Animal Crossing'
+        description: 'Big fan of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, Animal Crossing. Next pull, you'll get a 5-star item!'
         percent: 100
         icon: ''
       - name: Singing
