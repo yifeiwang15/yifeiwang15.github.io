@@ -101,7 +101,7 @@ skills:
       - name: Programming
         description: 'Familiar with most Python packages such as Numpy, Pandas, Sklearn, Pytorch, Pytorch Geometric, Transformers, Diffusion, Peft, etc. Also familiar with MATLAB and R.'
         percent: 100
-        icon: ''
+        icon: 
       - name: Research Skills
         description: 'Algorithm Development, Theoretical Proof, Quantitative Analysis, Experiment Design,
         Interdisciplinary collaboration, Presentation, Writing and Communication.'
@@ -110,7 +110,7 @@ skills:
       - name: Soft Skills
         description: 'Time Management, Problem Solving, Project Management, Collaboration, Mentorship.'
         percent: 100
-        icon: ''
+        icon: 
 
   - name: Hobbies
     color: '#eeac02'
@@ -119,15 +119,15 @@ skills:
       - name: Cooking
         description: 'After spending a year at home during the COVID-19 pandemic, I’ve mastered the art of becoming a chef! I enjoy cooking Chinese, Japanese, and American cuisine.'
         percent: 100
-        icon: ''
+        icon: 
       - name: Gaming
         description: 'Big fan of many anime-style games such as Genshin Impact, Honkai Star Rail, Fate Grand Order, Pokemon, Animal Crossing. Next pull, you'll get a 5-star item!'
         percent: 100
-        icon: ''
+        icon: 
       - name: Singing
         description: 'Used to be a soprano in the Chorus Team of the Tsinghua University Student Art Troupe.'
         percent: 100
-        icon: ''
+        icon: 
 languages:
   - name: English
     description: Fluent
