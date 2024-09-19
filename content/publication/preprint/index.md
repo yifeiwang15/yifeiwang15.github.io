@@ -1,7 +1,7 @@
 ---
 title: "Asymmetric contrastive multimodal learning for advancing chemical understanding"
 authors:
-- Hao Xu
+- **Hao Xu***
 - admin 
 - Yunrui Li
 - Pengyu Hong
