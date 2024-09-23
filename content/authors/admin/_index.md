@@ -142,5 +142,5 @@ languages:
 
 ## About Me
 
-Yifei Wang is a PhD student in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University under the guidance of Prof. Chenglong Bao. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare. She also does interdisciplinary studies in AI4Science and Healthcare. 
+Yifei Wang is a PhD student in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University under the guidance of Prof. Chenglong Bao. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
 {style="color: black"}
