@@ -16,16 +16,17 @@ date: "2023-09-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-04T00:00:00Z"
+publishDate: "2024-11-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["workshop"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: "arXiv"
+publication: "Neural Information Processing Systems Workshop: Algorith-
+mic Fairness through the Lens of Metrics and Evaluation (AMFE 2024)"
+publication_short: "NeurIPS workshop"
 
 abstract: 'When using machine learning (ML) to aid decision-making, it is critical to ensure that an algorithmic decision is fair and does not discriminate against specific individuals/groups, particularly those from underprivileged populations. Existing group fairness methods aim to ensure equal outcomes (such as loan approval rates) across groups delineated by protected variables like race or gender. However, these methods overlook the intricate, inherent differences among these groups that could influence outcomes. The confounding factors, which are non-protected variables but manifest systematic differences, can significantly affect fairness evaluation. Therefore, we recommend a more refined and comprehensive approach that accounts for both the systematic differences within groups and the multifaceted, intertwined confounding effects. We proposed a fairness metric based on counterparts (i.e., individuals who are similar with respect to the task of interest) from different groups, whose group identities cannot be distinguished algorithmically by exploring confounding factors. We developed a propensity-score-based method for identifying counterparts, avoiding the issue of comparing "oranges" with "apples". In addition, we introduced a counterpart-based statistical fairness index, called Counterpart-Fairness (CFair), to assess the fairness of ML models. Various empirical studies were conducted to validate the effectiveness of CFair.'
 
@@ -44,11 +45,11 @@ links:
 url_pdf: 'https://arxiv.org/pdf/2305.18160'
 url_code: 'https://github.com/zhengyjo/CFair'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1-ys8EEiCcC1uOK41SN_XAc6hCbx_j3Im/view?usp=sharing'
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1OwxbozRXs4ETVhTCPtsty5W3h6cn77zGoijhmlj_p7M/edit?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://recorder-v3.slideslive.com/#/share?share=97888&s=431b7026-b57b-4f33-bb15-99fc38c783b1'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
