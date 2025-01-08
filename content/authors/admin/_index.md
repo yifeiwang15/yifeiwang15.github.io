@@ -29,7 +29,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yifeiwang@brandeis.edu'
+    url: 'mailto:yifeiwang2025@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/yifeiwang15
@@ -49,10 +49,10 @@ interests:
   - AI4Healthcare
 
 education:
-  - area: PhD Student of Computer Science
+  - area: Ph.D. in Computer Science
     institution: Brandeis University
     date_start: 2020-01-15
-    date_end: ''
+    date_end: 2020-02-01
     summary: |
       - GPA: 4.0/4.0
       - Research Focus: Graph Representational Learning on Molecules, Fairness within Medical Contexts
@@ -142,5 +142,5 @@ languages:
 
 ## About Me
 
-Yifei Wang is a PhD student in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University under the guidance of Prof. Chenglong Bao. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
+Yifei Wang will receive her Ph.D. degree in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University under the guidance of Prof. Chenglong Bao. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
 {style="color: black"}

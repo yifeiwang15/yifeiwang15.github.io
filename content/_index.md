@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am currently a PhD student in Computer Science at Brandeis University. I blog about my publications and recent news. Great thanks to my undergraduate thesis advisor, Prof. Chenglong Bao from Tsinghua University, for inspiring my passion for research. Great thanks to Prof. Chuxu Zhang from the Univeristy of Connecticut for his valuable guidance and support on my PhD dissertation proposal. I am actively collaborating with those interested in cutting-edge AI topics and am always happy to assist junior students who are keen on pursuing research. Feel free to reach out via email if you'd like to collaborate or discuss research ideas. 😃
+        I received my Ph.D. degree in Computer Science at Brandeis University. I blog about my publications and recent news. Great thanks to my undergraduate thesis advisor, Prof. Chenglong Bao from Tsinghua University, for inspiring my passion for research. Great thanks to Prof. Chuxu Zhang from the Univeristy of Connecticut for his valuable guidance and support on my PhD dissertation proposal. I am actively collaborating with those interested in cutting-edge AI topics and am always happy to assist junior students who are keen on pursuing research. Feel free to reach out via email if you'd like to collaborate or discuss research ideas. 😃
         
     design:
       columns: '1'
