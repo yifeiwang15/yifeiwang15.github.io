@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I received my Ph.D. degree in Computer Science at Brandeis University. I am now working at Biogen as a machine learning research fellow, focusing on AI for drug discovery and generative AI for small molecule design. I blog about my publications and recent news. I am actively collaborating with those interested in cutting-edge AI topics like AI4Science, and am always happy to assist junior students who are keen on pursuing research. Feel free to reach out via email if you'd like to collaborate or discuss research ideas. 😃
+        I received my Ph.D. degree in Computer Science at Brandeis University. I am now working at Biogen as a machine learning research fellow, focusing on AI for drug discovery. I blog about my publications and recent news. I am actively collaborating with those interested in cutting-edge AI topics like AI4Science, and am always happy to assist junior students who are keen on pursuing research. Feel free to reach out via email if you'd like to collaborate or discuss research ideas. 😃
         
     design:
       columns: '1'
