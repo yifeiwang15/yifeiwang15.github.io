@@ -52,7 +52,7 @@ education:
   - area: PhD in Computer Science
     institution: Brandeis University
     date_start: 2020-01-15
-    date_end: 2020-02-01
+    date_end: 2025-02-01
     summary: |
       - GPA: 4.0/4.0
       - Research Focus: AI4Science, Molecular Representational Learning, Fairness within Medical Contexts
@@ -72,7 +72,7 @@ work:
   - position: Machine Learning Research Fellow
     company_name: Biogen
     company_url: 'https://www.biogen.com/'
-    company_logo: ''
+    company_logo: 'Biogen_logo.svg.png'
     date_start: 2025-02-17
     date_end: ''
     summary: |
