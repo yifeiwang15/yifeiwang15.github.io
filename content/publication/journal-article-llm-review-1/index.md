@@ -48,9 +48,7 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.1016/j.ijmedinf.2025.106091
+doi: 10.1016/j.ijmedinf.2025.106091
 
 # Custom links
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1386505625003089?via%3Dihub

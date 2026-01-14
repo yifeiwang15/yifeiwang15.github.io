@@ -11,7 +11,7 @@ authors:
 author_notes: ""
 
 date: "2024-06-11"
-doi: ""
+doi: "10.1016/j.jbi.2024.104677"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-11T00:00:00Z"
