@@ -7,7 +7,7 @@ title: 'AI-assisted literature screening: A hybrid approach using large language
 authors:
   - Yiming Li
   - Xinsong Du
-  - me
+  - admin
   - Xinyu Chen
   - Zhengyang Zhou
   - John Lian

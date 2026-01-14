@@ -7,7 +7,7 @@ title: 'Performance and improvement strategies for adapting generative large lan
 authors:
   - Xinsong Du
   - Zhengyang Zhou
-  - me
+  - admin
   - Ya-Wen Chuang
   - Yiming Li
   - Richard Yang
