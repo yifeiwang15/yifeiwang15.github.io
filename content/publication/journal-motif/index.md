@@ -10,7 +10,7 @@ authors:
 author_notes: ""
 
 date: "2023-01-11"
-doi: ""
+doi: "10.3390/informatics10010008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-11T00:00:00Z"
@@ -30,18 +30,17 @@ abstract: "This work considers the task of representation learning on the attrib
 summary: "We designed a novel convolution module for graph representational learning on molecules with an efficient pretraining strategy, enabling the capture of local structural and semantic information from graph motifs."
 
 tags:
-- Graph Neural Network
-- Molecular Learning
-- Interpretability
-- Motif-based Pretraining
-featured: false
+  - AI For Drug Discovery
+  - Graph Neural Network
+  - Molecular Representation Learning
+featured: true
 # links:
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.mdpi.com/2227-9709/10/1/8'
 url_code: 'https://github.com/yifeiwang15/MotifConv'
 url_dataset: ''
-url_poster: 'https://drive.google.com/file/d/14f0ji8Gc_3Hl2h0Qn2SvP5sEJNanAyWT/view?usp=sharing'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''

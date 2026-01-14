@@ -36,7 +36,7 @@ tags:
 - Mortality Prediction
 - Machine Learning
 - Chronic Disease
-featured: true
+featured: false
 # links:
 # - name: ""
 #   url: ""
@@ -45,9 +45,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1_G1bZRtDKVqnMaDHaGg3R0wbPgrXT-QB/view?usp=sharing'
+url_slides: ''
 url_source: ''
-url_video: 'https://drive.google.com/file/d/1IA_AjAfQf96AzUHvGe5B0hJwpdkV6FTO/view?usp=sharing'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
