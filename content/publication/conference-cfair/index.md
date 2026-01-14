@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Neural Information Processing Systems Workshop: Algorithmic Fairness through the Lens of Metrics and Evaluation (AMFE 2024)"
-publication_short: NIPS Workshop
+publication_short: NIPS 2024 Workshop
 
 abstract: When using machine learning (ML) to aid decision-making, it is critical to ensure that an algorithmic decision is fair and does not discriminate against specific individuals/groups, particularly those from underprivileged populations. Existing group fairness methods aim to ensure equal outcomes (such as loan approval rates) across groups delineated by protected variables like race or gender. However, these methods overlook the intricate, inherent differences among these groups that could influence outcomes. The confounding factors, which are non-protected variables but manifest systematic differences, can significantly affect fairness evaluation. Therefore, we recommend a more refined and comprehensive approach that accounts for both the systematic differences within groups and the multifaceted, intertwined confounding effects. We proposed a fairness metric based on counterparts (i.e., individuals who are similar with respect to the task of interest) from different groups, whose group identities cannot be distinguished algorithmically by exploring confounding factors. We developed a propensity-score-based method for identifying counterparts, avoiding the issue of comparing "oranges" with "apples". In addition, we introduced a counterpart-based statistical fairness index, called Counterpart-Fairness (CFair), to assess the fairness of ML models. Various empirical studies were conducted to validate the effectiveness of CFair.
 
@@ -48,11 +48,8 @@ featured: false
 #     doi: ""
 
 # Custom links
-links:
-  - type: pdf
-    url: https://arxiv.org/pdf/2305.18160
-  - type: code
-    url: https://github.com/zhengyjo/CFair
+url_pdf: https://arxiv.org/pdf/2305.18160
+url_code: https://github.com/zhengyjo/CFair
   # - type: dataset
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: slides
