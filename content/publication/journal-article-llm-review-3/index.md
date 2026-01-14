@@ -54,13 +54,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC11370524&blobtype=pdf'
+url_pdf: 'https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaf233/8424252?redirectedFrom=fulltext'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaf233/8424252?redirectedFrom=fulltext'
+url_source: ''
 url_video: ''
 
 # Featured image
