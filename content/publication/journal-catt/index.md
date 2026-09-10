@@ -21,7 +21,10 @@ authors:
 date: '2026-07-01'
 doi: '10.1016/j.ijmedinf.2026.106424'
 
-
+# Redirect the old preprint URL to this page, so links shared before
+# the paper was published in IJMI keep working.
+aliases:
+  - /publication/preprint-catt/
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
