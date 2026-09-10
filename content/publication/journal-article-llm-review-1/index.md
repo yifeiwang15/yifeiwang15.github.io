@@ -45,7 +45,7 @@ tags:
   - Survey 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 doi: 10.1016/j.ijmedinf.2025.106091

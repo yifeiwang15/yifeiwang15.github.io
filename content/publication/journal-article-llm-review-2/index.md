@@ -44,7 +44,7 @@ tags:
   - AI For Healthcare
 
 # Display this page in the Featured widget?
-featured: False
+featured: false
 
 # Standard identifiers for auto-linking
 doi: 10.1016/j.ijmedinf.2025.106205

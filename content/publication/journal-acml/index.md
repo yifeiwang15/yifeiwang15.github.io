@@ -40,7 +40,7 @@ tags:
   - Molecular Representation Learning
 
 # Display this page in the Featured widget?
-featured: True
+featured: true
 
 # Standard identifiers for auto-linking
 hugoblox:

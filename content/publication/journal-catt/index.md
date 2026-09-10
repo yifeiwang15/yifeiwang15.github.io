@@ -18,19 +18,19 @@ authors:
 # Author notes (optional)
 
 
-date: '2025-06-09'
-doi: '10.1101/2025.06.09.25329279'
+date: '2026-07-01'
+doi: '10.1016/j.ijmedinf.2026.106424'
 
 
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['preprint']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: MedRxiv
-publication_short: MedRxiv
+publication: International Journal of Medical Informatics
+publication_short: IJMI
 
 abstract: "Backgrounds: Accurate interpretation of genetic variants is critical for precision medicine. While large language models (LLMs) show promise for summarization, they are prone to hallucinations. In this study, we thus propose a novel approach named “precision grounding” that augments LLMs with a query tool that integrated evidence-based, variant-specific information to improve summarization accuracy; Methods: Unlike traditional RAG methods that retrieve information via document embeddings from a vector database, precision grounding uses a domain-specific query tool to access evidence-based databases with unique identifiers. For variant summarization, we developed CATT, an open-source tool integrating ClinGen, ClinVar, and GenCC data. Users can query and retrieve curated evidence via Variation IDs to ground LLM outputs. We compared our approach to web grounding-based RAG using 50 expert-selected variants; Results: GPT-4o was selected due to its good performance on our task during a pilot test. Using GPT-4o, we found our precision grounding approach outperformed web-search grounding, achieving significantly higher accuracy and completeness scores, which were based on a 5-point Likert-Scale of 4.76 (+0.74) and 4.94 (+0.84), respectively. Error analysis revealed that precision grounding reduced clinically significant hallucinations, such as incorrect pathogenicity classification and summarizing the wrong variant; Conclusion: Precision grounding approach outperformed web-search grounding for genetic variant summarization. Our open-source tool, CATT, enables integration of curated, domain-specific knowledge and reduces hallucinations in LLM outputs."
 
@@ -39,7 +39,7 @@ summary: "LLMs are prone to generating inaccurate or misleading interpretation o
 
 tags:
   - Large Language Model
-  - Halluhallucination
+  - Hallucination
 # Display this page in the Featured widget?
 featured: false
 
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12204447/'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1386505626001644'
 url_code: 'https://shorturl.at/pw81X'
 url_dataset: ''
 url_poster: ''

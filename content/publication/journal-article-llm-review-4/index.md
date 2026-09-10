@@ -26,7 +26,7 @@ doi: '10.1093/jamia/ocag014'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-journal']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of the American Medical Informatics Association
