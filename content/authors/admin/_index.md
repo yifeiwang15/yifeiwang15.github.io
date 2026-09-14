@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine Learning Research Fellow
+role: Scientist, Machine Learning & Molecular Design
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -69,12 +69,21 @@ education:
 
   
 work:
+  - position: Machine Learning Scientist
+    company_name: Biogen
+    company_url: 'https://www.biogen.com/'
+    company_logo: 'Biogen_logo.svg.png'
+    date_start: 2026-03-17
+    date_end: ''
+    summary: |
+      - Machine learning for small-molecule drug discovery
+      - Virtual screening and generative molecular design
   - position: Machine Learning Research Fellow
     company_name: Biogen
     company_url: 'https://www.biogen.com/'
     company_logo: 'Biogen_logo.svg.png'
     date_start: 2025-02-17
-    date_end: ''
+    date_end: 2026-03-16
     summary: |
       - AI-aided drug design
       - Generative AI for small molecule design
@@ -146,5 +155,5 @@ languages:
 
 ## About Me
 
-Yifei Wang received her Ph.D. degree in Computer Science at Brandeis University. She earned her bachelor's degree in Mathematics from Tsinghua University. Her research focuses on graph neural networks, multimodal learning, fairness, and generative models, with interdisciplinary work in AI4Science and healthcare.
+Yifei Wang is a Scientist in Machine Learning & Molecular Design at Biogen, where she develops AI methods for small-molecule drug discovery. Her expertise spans virtual screening, generative molecular design, and molecular representation learning, drawing on graph neural networks, chemical language models, reinforcement learning, and efficient search methods. She has built and deployed production molecular design workflows — from billion-scale ligand-based virtual screening to synthesizable de novo design — working closely with computational chemists to turn medicinal chemistry constraints into practical ML algorithms.
 {style="color: black"}
